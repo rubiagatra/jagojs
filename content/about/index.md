@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+Halo nama saya Doni, saya senang menulis tentang JavaScript, Web, dan Kompiler.
